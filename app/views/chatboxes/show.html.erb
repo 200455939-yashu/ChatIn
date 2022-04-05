@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @chatbox.name %>
+</p>
+
+<p>
+  <strong>Is private:</strong>
+  <%= @chatbox.is_private %>
+</p>
+
+<%= link_to 'Edit', edit_chatbox_path(@chatbox) %> |
+<%= link_to 'Back', chatboxes_path %>

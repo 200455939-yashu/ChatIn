@@ -1,0 +1,40 @@
+// Place all the styles related to the Chatboxes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+  .msg-form {
+    position: fixed;
+    bottom: 0;
+    width: 90%
+  }
+
+  .left-1 a{
+  margin-left: -51%!important;
+  }
+
+  .col-md-10 {
+    height: 100vh;
+    overflow: scroll;
+  }
+
+  .white-text {
+    color: white;
+  }
+
+  .float-right{
+    float: right;
+  }
+
+  .msg-content {
+    width: 60%!important;
+    margin-right: 5px;
+  }
+
+  .message-box {
+    width: fit-content;
+    max-width: 40%;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: #555555 ;
+    padding: 10px
+  }
