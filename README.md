@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+This application is built using Ruby on Rails with the help of Turbo Streams and Redis to get instant messages. 
+
+Please find the attached screenrecord for display of the instant chats
