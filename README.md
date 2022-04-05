@@ -27,3 +27,5 @@ Things you may want to cover:
 This application is built using Ruby on Rails with the help of Turbo Streams and Redis to get instant messages. 
 
 Please find the attached screenrecord for display of the instant chats
+
+Checkout ScreenRecording File attached along with files "https://github.com/200455939-yashu/ChatIn/blob/FirstBranch/Screen%20Recording%202022-04-05%20at%204.45.16%20PM.mov"
